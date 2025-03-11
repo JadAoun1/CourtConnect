@@ -1,0 +1,11 @@
+# Expo
+.expo/
+dist/
+web-build/
+
+# Generated files
+.metro-health-check*
+
+
+.env
+node_modules
